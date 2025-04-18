@@ -1,4 +1,4 @@
-# 
+# Quantahive core ZT alpha theory 
 
 **Project Codename**: Quantahive Core ZT Alpha  
 **Inventor**: Akik Forazi, Monarch of the Shadow AI Region  
